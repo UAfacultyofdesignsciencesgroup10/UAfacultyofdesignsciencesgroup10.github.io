@@ -1812,30 +1812,30 @@ body {
 .cid-qCtoqp9Rli .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qD74bpm14p {
+.cid-qEqZ5E1XfA {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
-.cid-qD74bpm14p h4 {
+.cid-qEqZ5E1XfA h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
 }
-.cid-qD74bpm14p p {
+.cid-qEqZ5E1XfA p {
   color: #767676;
   text-align: left;
 }
-.cid-qD74bpm14p .card-box {
+.cid-qEqZ5E1XfA .card-box {
   padding-top: 2rem;
 }
-.cid-qD74bpm14p .card-wrapper {
+.cid-qEqZ5E1XfA .card-wrapper {
   height: 100%;
 }
 .cid-qD74bUCkJb {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-qD74bUCkJb h4 {
   font-weight: 500;
@@ -1852,48 +1852,25 @@ body {
 .cid-qD74bUCkJb .card-wrapper {
   height: 100%;
 }
-.cid-qCy6OBZnXf {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-qErfycJwx6 {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-qCy6OBZnXf .mbr-slider .carousel-control {
-  background: #1b1b1b;
+.cid-qErfycJwx6 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
 }
-.cid-qCy6OBZnXf .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
+.cid-qErfycJwx6 p {
+  color: #767676;
+  text-align: left;
 }
-.cid-qCy6OBZnXf .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
+.cid-qErfycJwx6 .card-box {
+  padding-top: 2rem;
 }
-.cid-qCy6OBZnXf .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-qCy6OBZnXf .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
+.cid-qErfycJwx6 .card-wrapper {
   height: 100%;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-}
-.cid-qCy6OBZnXf .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
 }
 .cid-qCy6RYBkQm {
   padding-top: 60px;
